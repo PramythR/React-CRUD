@@ -1,0 +1,13 @@
+.list__group {
+  display: flex;
+  border: 1px solid black !important;
+}
+
+.listgroup__main {
+  margin-top: 20px;
+}
+
+.listgroup__main :hover {
+  background-color: rgb(231, 228, 228);
+  background: 0.2s ease-in;
+}
